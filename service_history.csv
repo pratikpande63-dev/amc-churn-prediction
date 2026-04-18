@@ -1,0 +1,6 @@
+﻿customer_id,service_date,issue_type,resolution_time,satisfaction_score
+1,5/10/2023,Hardware,5,4
+2,3/15/2023,Software,8,2
+3,6/20/2023,Network,3,5
+4,7/25/2023,Hardware,10,1
+5,8/30/2023,Software,6,3

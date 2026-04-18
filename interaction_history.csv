@@ -1,0 +1,6 @@
+﻿customer_id,interaction_type,date,outcome
+1,Call,6/1/2023,Interested
+2,Email,4/10/2023,No Response
+3,Visit,7/15/2023,Interested
+4,Call,8/1/2023,Not Interested
+5,Email,9/5/2023,Interested

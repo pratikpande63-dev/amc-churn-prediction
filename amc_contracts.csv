@@ -1,0 +1,6 @@
+﻿customer_id,start_date,end_date,contract_value,status
+1,1/1/2023,1/1/2024,50000,Active
+2,6/1/2022,6/1/2023,75000,Expired
+3,3/1/2023,3/1/2024,60000,Active
+4,11/1/2022,11/1/2023,45000,Expired
+5,9/1/2023,9/1/2024,80000,Active
